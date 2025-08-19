@@ -1,7 +1,7 @@
 Python Tetris Game with GUI
 
 A classic Tetris game implemented in Python using Pygame. This version includes a graphical user interface (GUI) with score display, next piece preview, and a game-over screen.
-🎮 Features
+Features
 
     Classic Tetris gameplay: Move, rotate, and drop Tetris pieces.
 
@@ -21,7 +21,7 @@ A classic Tetris game implemented in Python using Pygame. This version includes 
 
         Up Arrow – Rotate piece
 
-🖥️ Installation
+ Installation
 
     Clone the repository:
 
@@ -38,7 +38,7 @@ pip install pygame
 
 python Tetris-game.py
 
-🛠️ How it works
+ How it works
 
     Grid and Pieces: The game board is a grid. Pieces are defined in matrices with their shapes and colors.
 
@@ -50,12 +50,12 @@ python Tetris-game.py
 
     Game Over: When new pieces cannot fit at the top, the game ends and shows the final score.
 
-📂 File Structure
+ File Structure
 
 Tetris-game/
 ├── main.py        # Main game code
 ├── README.md        # This file
 
-⚡ Contribution
+ Contributors
 
 
