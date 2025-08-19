@@ -25,8 +25,8 @@ A classic Tetris game implemented in Python using Pygame. This version includes 
 
     Clone the repository:
 
-git clone https://github.com/your-username/python-tetris.git
-cd python-tetris
+git clone (https://github.com/your-username/Tetris-game.git)
+cd python-Tetris-game
 
     Install dependencies:
 
@@ -36,7 +36,7 @@ pip install pygame
 
     Run the game:
 
-python tetris.py
+python Tetris-game.py
 
 🛠️ How it works
 
@@ -52,10 +52,10 @@ python tetris.py
 
 📂 File Structure
 
-python-tetris/
-├── tetris.py        # Main game code
+Tetris-game/
+├── main.py        # Main game code
 ├── README.md        # This file
 
 ⚡ Contribution
 
-Feel free to fork the repository, submit issues, or create pull requests.
+
