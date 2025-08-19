@@ -61,5 +61,6 @@ Idris Abubakar Sadiq - sadiq67190@gmail.com
 Abubakar ibrahim tukura - Tukuraabubakar123@gmail.com
 oluwafemi Augustine - shinafemi051@gmail.com
 mohammed mustapha shehu - mshehumuhd@gmail.com
+farid Abdurraman - faaridkoabd76@gmail.com
 
 
